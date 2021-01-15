@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{affcb7c5-9cca-4b5b-8fe1-3aef55cc3aa3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="View.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewImplWin32.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewRunner.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewDomParser.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="View.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewImplWin32.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewRunner.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

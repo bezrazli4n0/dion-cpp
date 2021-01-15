@@ -1,0 +1,2 @@
+D:\Projects\dion-cpp\dion\x64\Debug\dion-view.pdb
+D:\Projects\dion-cpp\dion-view\x64\Debug\dion-view.pdb

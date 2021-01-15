@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9002: пропуск неизвестного параметра "/NODEFAULTLIB:library"
+  View.cpp
+  ViewImplWin32.cpp
+  Создание кода...
+  dion-view.vcxproj -> D:\Projects\dion-cpp\dion\x64\Debug\dion-view.lib
